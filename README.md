@@ -5,7 +5,7 @@
 <img width="514" height="279" alt="image" src="https://github.com/user-attachments/assets/275b6b71-2994-403b-97ac-c6acb70573cf" />
 
 ### Open Terminal > New Terminal
-You will see Debug Console to see the output
+#### You will see Debug Console to see the output
 <img width="394" height="48" alt="image" src="https://github.com/user-attachments/assets/c4fdeac2-e3c7-4ae7-b4a4-11ac9fd4f3ff" />
 
 ### Open Run then Start Debugging
