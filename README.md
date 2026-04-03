@@ -2,7 +2,7 @@
 
 ## Step by step to run the script using IDE - VSCode
 
-<img width="514" height="279" alt="image" src="https://github.com/user-attachments/assets/275b6b71-2994-403b-97ac-c6acb70573cf" />
+<img width="411" height="39" alt="image" src="https://github.com/user-attachments/assets/fe900196-52d8-400a-b4f6-2713f7cbfa36" />
 
 ### Open Terminal > New Terminal
 #### You will see Debug Console to see the output
